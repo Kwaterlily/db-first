@@ -8,7 +8,7 @@ Colonne                             Tipo di dato      Attributi                 
 
 id                              -   BIGINT        -   UNIQUE, NOT NULL, AUTO_INCREMENT   -   PRIMARY KEY
 modello auto                    -   VARCHAR(50)   -   NOTNULL                            -   
-cilindrata                      -   CHAR(4)       -   NOTNULL                            -   
+cilindrata                      -   CHAR(4)       -   NOTNULL                            -   INDEX
 tipo alimentazione automobile   -   VARCHAR(50)   -   NOTNULL                            -   
 anno di immatricolazione auto   -   YEAR          -   NOTNULL                            -   
 targa                           -   CHAR(28)      -   UNIQUE                             -   
