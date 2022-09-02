@@ -1,0 +1,27 @@
+Modellizzare la struttura di una tabella per memorizzare tutti i dati riguardanti delle auto usate messe in vendita da un concessionario.
+Inserite nella vostra repo un semplice file di testo in cui elencate le colonne della vostra tabella complete di tipo di dato, attributi ed eventuale indice!
+
+
+TABELLA AUTO USATE 
+
+id                              -   BIGINT
+modello auto                    -   
+cilindrata                      -
+anno di immatricolazione auto   -
+targa                           -
+stato di usura carrozzeria      -
+stato di usura interni          -
+ricambi tercnici avvennuti      -
+colore                          -
+numero corsia                   -
+numero parcheggio               -
+vendita                         - (valore booleano)
+km percorsi                     -
+numero posti omologazione       -
+numero porte                    -
+prezzo  all'ingrosso            -
+prezzo al dettaglio             -
+
+
+
+
